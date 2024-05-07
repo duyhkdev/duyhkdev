@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Kim Duy</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Hello! I’m Hoàng Kim Duy, a Java programmer born in 2003. I have a passion for coding and enjoy solving challenging problems. My curiosity drives me to explore new technologies and learn from the ever-evolving world of software development. When I’m not writing code, you can find me reading tech blogs or experimenting with personal projects. Feel free to connect with me—I’m always up for discussing programming, sharing ideas, and collaborating on exciting projects! 😊 I hope this introduction captures your essence as a Java programmer! If you’d like any adjustments or additional details, feel free to ask. 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangkimduy2003&label=Profile%20views&color=0e75b6&style=flat" alt="hoangkimduy2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangkimduy2003&theme=" alt="hoangkimduy2003" /></a> </p>
